@@ -14,7 +14,7 @@
    <string>MainWindow</string>
   </property>
   <widget class="QWidget" name="centralwidget">
-   <widget class="QPushButton" name="pushButton">
+   <widget class="QPushButton" name="button1">
     <property name="geometry">
      <rect>
       <x>150</x>
@@ -26,14 +26,14 @@
     <property name="font">
      <font>
       <family>궁서</family>
-      <pointsize>14</pointsize>
+      <pointsize>18</pointsize>
      </font>
     </property>
     <property name="text">
      <string>버튼1</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_2">
+   <widget class="QPushButton" name="button2">
     <property name="geometry">
      <rect>
       <x>150</x>
@@ -52,7 +52,7 @@
      <string>버튼2</string>
     </property>
    </widget>
-   <widget class="QLabel" name="label">
+   <widget class="QLabel" name="label1">
     <property name="geometry">
      <rect>
       <x>110</x>
